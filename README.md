@@ -1,4 +1,3 @@
-## Hi there 👋
 # Angel Guevara
 ### Business & Data Analyst | Applied AI & Workflow Automation
 
