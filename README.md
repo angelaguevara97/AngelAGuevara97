@@ -19,11 +19,25 @@ My focus is turning business problems into clear requirements, reliable analysis
 - **SQL:** Joins, aggregations, filtering, and basic subqueries; experience with Oracle
 - **Personal projects:** API workflows, AI-assisted development, and automation using ChatGPT, Codex, and Gemini
 
-## Portfolio — In Development
+## Featured Projects
 
-- **CourtsEdge Showcase:** A sanitized case study of my independent sports analytics application, focusing on product requirements, API workflows, analytical logic, and validation. Production code and third-party datasets remain private.
-- **AI Business Workflow:** A business-focused project exploring structured extraction, validation, and human review.
-- **SQL Logistics & Data Quality:** A case study using synthetic logistics data to investigate duplicates, billing discrepancies, and operational exceptions.
+### [AI Billing Dispute Intake](https://github.com/angelaguevara97/ai-billing-dispute-intake)
+
+A business workflow combining AI extraction, source evidence checks, invoice reconciliation, and human review routing. Includes six synthetic messages, a recorded ChatGPT response, a runnable Python validator, and documented evaluation.
+
+**Demonstrates:** AI workflow design, structured outputs, exception handling, and business analysis.
+
+### [SQL Logistics Data Quality](https://github.com/angelaguevara97/sql-logistics-data-quality)
+
+A reproducible investigation of 50,500 synthetic logistics records representing 50,000 rental events. SQL identifies duplicate replays, billing discrepancies, status issues, and inconsistent location references.
+
+**Demonstrates:** SQL joins, CTEs, reconciliation, data-quality investigation, and monthly KPI analysis.
+
+### [CourtsEdge Showcase](https://github.com/angelaguevara97/CourtsEdge-showcase)
+
+A public case study of my independent sports analytics application. Includes product requirements, a conceptual workflow, synthetic data, and a runnable historical-analysis example. The original application and production source code remain private.
+
+**Demonstrates:** Product requirements, analytical rules, API workflow considerations, and validation.
 
 ## Education
 
